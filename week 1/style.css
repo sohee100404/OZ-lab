@@ -1,0 +1,33 @@
+* { box-sizing: border-box; }
+
+body {
+    background: #eaf2f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120vh;
+    font-family: sans-serif;
+}
+
+.card {
+    background: rgb(82, 87, 112);
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(0,0,0,.1);
+    width: 520;
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    text-align: left;
+    padding-left: 20px;
+}
+
+li { padding-left: 0; }
+.card img { border-radius: 60%; }
+
+h1 { color: #dcdbe9; }
+
+a { color: #d9d8e4; transition: 0.2s; }
+
+a:hover { opacity: 0.4; }
