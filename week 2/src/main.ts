@@ -8,13 +8,13 @@ const me: Profile = {
   name: "김소희",
   initials: "SK",
   bio: "웹개발을 배우는 중입니다.",
-  github: "https://github.com/Park720/Likelion26-27",
+  github: "https://github.com/sohee100404",
   skills: [
     { name: "HTML", status: "done" },
     { name: "CSS", status: "done" },
     { name: "TypeScript", status: "learning" },
     { name: "React", status: "learning" },
-    { name: "MATLAB", status: "learning" },
+    { name: "JavaScript", status: "learning" },
   ],
 };
 
